@@ -1,1 +1,1 @@
-print("im.almost.blind")
+print()
