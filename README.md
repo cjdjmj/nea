@@ -1,1 +1,1 @@
-TextBox.Text ==  "sus"
+print("im.almost.blind")
