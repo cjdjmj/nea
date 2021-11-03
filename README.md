@@ -1,1 +1,1 @@
-# nea
+TextBox.Text ==  "sus"
